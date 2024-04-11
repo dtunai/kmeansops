@@ -4,8 +4,8 @@ setup(
     name="kmeansops",
     version="0.0.1",
     description="PyKeops Powered K-Means Clustering Algorithms Module",
-    author="attophyd",
-    author_email="attophyd@gmail.com",
+    author="simudt",
+    author_email="simudt@gmail.com",
     packages=find_packages(),
     install_requires=["torch>=0.12.0", "pykeops>=2.1.2", "matplotlib>=3.7.1"],
     classifiers=[
