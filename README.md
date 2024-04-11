@@ -15,7 +15,7 @@ torch>=0.12.0", "pykeops>=2.1.2", "matplotlib>=3.7.1
 You can install the module by cloning this repository:
 
 ```
-git clone https://github.com/SCALEDSL/biseckmeans-keops
+git clone https://github.com/attophyd/kmeansops
 python setup.py install
 ```
 
